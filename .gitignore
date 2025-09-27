@@ -1,0 +1,19 @@
+# Node.js
+node_modules/
+npm-debug.log
+.env
+
+# React frontend
+client/build/
+client/node_modules/
+
+# Express backend
+server/node_modules/
+
+# Logs
+*.log
+logs/
+debug.log
+
+# VS Code settings
+.vscode/
