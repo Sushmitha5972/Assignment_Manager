@@ -3,7 +3,8 @@
   position: relative;
   height: 100vh;
   width: 100%;
-  background: url('C:\Users\lenov\OneDrive\Desktop\MERN_PROJECT\client\myapp\public\PIC.jpg') no-repeat center center;
+ background: #6a11cb; /* or any color you like */
+
   background-size: 400% 400%;
   animation: bgGradient 20s ease infinite; /* Oscillating effect */
   display: flex;

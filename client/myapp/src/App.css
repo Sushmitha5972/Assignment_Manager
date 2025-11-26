@@ -362,7 +362,8 @@ input:focus {
   justify-content: center;
 
   /* Use public folder image */
-  background: url('C:\Users\lenov\OneDrive\Desktop\MERN_PROJECT\client\myapp\public\PIC.jpg') no-repeat center center;
+ background: #6a11cb; /* or any color you like */
+
   background-size: cover;
 
   position: relative;
